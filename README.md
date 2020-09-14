@@ -1,4 +1,4 @@
-# Lsa
+# LSA
 # Practical no 1
 # Install DHCP Server in Ubuntu 16.04
 Install DHCP Server in Ubuntu 16.04
